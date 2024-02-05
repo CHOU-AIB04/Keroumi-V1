@@ -1,0 +1,1 @@
+import{r as t,j as s}from"./index-SJUisRvm.js";import{s as e}from"./App-F7IGZ1k1.js";const a=()=>(t.useContext(e),s.jsxs("article",{className:"w-full h-96 bg-green-400 relative top-[423px]",children:[s.jsx("h1",{children:"Product details components"}),s.jsx("section",{}),s.jsx("section",{})]}));export{a as default};
