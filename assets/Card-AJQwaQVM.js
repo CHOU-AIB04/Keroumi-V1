@@ -1,0 +1,1 @@
+import{j as e}from"./index-JPFQfl7A.js";const s=()=>e.jsx("section",{className:"w-full h-96 bg-orange-500 top-[423px] relative",children:e.jsx("h1",{children:"Card components"})});export{s as default};
